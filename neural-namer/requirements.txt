@@ -1,0 +1,11 @@
+requests
+tensorflow-gpu==1.15
+lxml
+pyunpack
+patool
+flask
+redis
+flask-redis
+gunicorn
+paramiko
+scp
